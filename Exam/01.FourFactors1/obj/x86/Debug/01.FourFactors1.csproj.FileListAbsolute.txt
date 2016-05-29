@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\01.FourFactors1\bin\Debug\01.FourFactors1.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\01.FourFactors1\bin\Debug\01.FourFactors1.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\01.FourFactors1\obj\x86\Debug\01.FourFactors1.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\01.FourFactors1\obj\x86\Debug\01.FourFactors1.pdb

@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.SummerTime\bin\Release\03.SummerTime.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.SummerTime\bin\Release\03.SummerTime.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.SummerTime\obj\x86\Release\03.SummerTime.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.SummerTime\obj\x86\Release\03.SummerTime.pdb

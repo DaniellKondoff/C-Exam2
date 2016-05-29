@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\Exam\bin\Release\Exam.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\Exam\bin\Release\Exam.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\Exam\obj\x86\Release\Exam.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\Exam\obj\x86\Release\Exam.pdb

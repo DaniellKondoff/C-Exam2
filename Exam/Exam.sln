@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SummerTime", "03.SummerTime\03.SummerTime.csproj", "{96D8AA68-3AA4-4B50-A2A1-D1481F9EDD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FourFactors1", "01.FourFactors1\01.FourFactors1.csproj", "{F6432A21-2237-484E-8182-B4DB5AE1B300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DetectivBoev", "03.DetectivBoev\03.DetectivBoev.csproj", "{F4ED7176-67AF-49EB-9754-E17089E1948C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.WiggleWiggle", "05.WiggleWiggle\05.WiggleWiggle.csproj", "{D51CCD64-C796-4C9D-B146-EF5D2C6626B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D8AA68-3AA4-4B50-A2A1-D1481F9EDD25}.Debug|x86.ActiveCfg = Debug|x86
+		{96D8AA68-3AA4-4B50-A2A1-D1481F9EDD25}.Debug|x86.Build.0 = Debug|x86
+		{96D8AA68-3AA4-4B50-A2A1-D1481F9EDD25}.Release|x86.ActiveCfg = Release|x86
+		{96D8AA68-3AA4-4B50-A2A1-D1481F9EDD25}.Release|x86.Build.0 = Release|x86
+		{F6432A21-2237-484E-8182-B4DB5AE1B300}.Debug|x86.ActiveCfg = Debug|x86
+		{F6432A21-2237-484E-8182-B4DB5AE1B300}.Debug|x86.Build.0 = Debug|x86
+		{F6432A21-2237-484E-8182-B4DB5AE1B300}.Release|x86.ActiveCfg = Release|x86
+		{F6432A21-2237-484E-8182-B4DB5AE1B300}.Release|x86.Build.0 = Release|x86
+		{F4ED7176-67AF-49EB-9754-E17089E1948C}.Debug|x86.ActiveCfg = Debug|x86
+		{F4ED7176-67AF-49EB-9754-E17089E1948C}.Debug|x86.Build.0 = Debug|x86
+		{F4ED7176-67AF-49EB-9754-E17089E1948C}.Release|x86.ActiveCfg = Release|x86
+		{F4ED7176-67AF-49EB-9754-E17089E1948C}.Release|x86.Build.0 = Release|x86
+		{D51CCD64-C796-4C9D-B146-EF5D2C6626B0}.Debug|x86.ActiveCfg = Debug|x86
+		{D51CCD64-C796-4C9D-B146-EF5D2C6626B0}.Debug|x86.Build.0 = Debug|x86
+		{D51CCD64-C796-4C9D-B146-EF5D2C6626B0}.Release|x86.ActiveCfg = Release|x86
+		{D51CCD64-C796-4C9D-B146-EF5D2C6626B0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

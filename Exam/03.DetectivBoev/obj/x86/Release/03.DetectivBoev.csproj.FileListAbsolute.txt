@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.DetectivBoev\bin\Release\03.DetectivBoev.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.DetectivBoev\bin\Release\03.DetectivBoev.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.DetectivBoev\obj\x86\Release\03.DetectivBoev.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\03.DetectivBoev\obj\x86\Release\03.DetectivBoev.pdb

@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\05.WiggleWiggle\bin\Release\05.WiggleWiggle.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\05.WiggleWiggle\bin\Release\05.WiggleWiggle.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\05.WiggleWiggle\obj\x86\Release\05.WiggleWiggle.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\SoftUni\Exam\05.WiggleWiggle\obj\x86\Release\05.WiggleWiggle.pdb
